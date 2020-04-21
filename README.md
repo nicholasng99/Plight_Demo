@@ -6,3 +6,4 @@ https://nihilistnun.github.io/Plight_Demo/
 All audio is obtained from [ZapSplat](www.zapsplat.com)
 
 Created for CSC3224 coursework of Newcastle University.
+Finished version is at [this repository](https://github.com/nihilistnun/Plight).
